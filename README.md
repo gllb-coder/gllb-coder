@@ -1,13 +1,16 @@
-## 🤙🏻 Olá, meu nome é Guilherme Lindemberg de Lima Beltrão!
+## 👋🏻 Olá, meu nome é Guilherme Lindemberg de Lima Beltrão!
 
-Sou estudante de ciência da computação na Cesar School
+Sou estudante de ciência da computação na Cesar School, apaixonado por tecnologia, jogos e futebol.
 
 ✍🏻 PROJETOS PASSADOS:
 - Apresentação da medtag(leitor de etiquetas que auxilia o controle de estoque na área de saúde)
 - Apresentação de um código em Python que automatiza atividades, cuidados e adoções de pets
 - Apresentação e criação de diversas páginas web utilizando HTML, CSS e Java Script
 
----
+## ✔️ Áreas de interesse
+- Desenvolvimento de Softwares
+- Cybersegurança
+- Full-Stack
 
 ## 💻 Minhas Skills
 
@@ -21,5 +24,10 @@ src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programmin
 
 
 
+
+## 📲 Contato profissional
+<a href="https://www.linkedin.com/in/guilherme-lindemberg-de-lima-beltrao-8756b937b/">Entre em Contato pelo linkedin</a>
+
+<a href="">Entre em Contato pelo e-mail</a>
 
 ---
