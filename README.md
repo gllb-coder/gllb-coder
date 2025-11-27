@@ -23,8 +23,3 @@ src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programmin
 
 
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)..
--->
