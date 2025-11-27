@@ -3,7 +3,7 @@
 Sou estudante de ciência da computação na Cesar School
 
 🔭 PROJETOS PASSADOS:
-- Apresentação da medtag(leitor de etiquetas que auxiliam o controle de estoque na área de saúde)
+- Apresentação da medtag(leitor de etiquetas que auxilia o controle de estoque na área de saúde)
 - Apresentação de um código em Python que automatiza atividades, cuidados e adoções de pets
 - Apresentação e criação de diversas páginas web utilizando HTML, CSS e Java Script
 
