@@ -1,6 +1,7 @@
 ## 👋🏻 Olá, meu nome é Guilherme Lindemberg de Lima Beltrão!
 
-Sou estudante de ciência da computação na Cesar School, apaixonado por tecnologia, jogos e futebol.
+Sou Guilherme, estudante de Ciência da Computação apaixonado por tecnologia
+e fascinado por futebol, sempre buscando aprimorar minhas habilidades lógicas e técnicas..
 
 ✍🏻 PROJETOS PASSADOS:
 - Apresentação da medtag(leitor de etiquetas que auxilia o controle de estoque na área de saúde)
