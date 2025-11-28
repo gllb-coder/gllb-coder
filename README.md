@@ -1,6 +1,6 @@
 ## 👋🏻 Olá, meu nome é Guilherme Lindemberg de Lima Beltrão!
 
-Sou Guilherme, estudante de Ciência da Computação apaixonado por tecnologia
+Sou Guilherme, estudante de Ciência da Computação na CESAR SCHOOL apaixonado por tecnologia
 e fascinado por futebol, sempre buscando aprimorar minhas habilidades lógicas e técnicas..
 
 ✍🏻 PROJETOS PASSADOS:
